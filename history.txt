@@ -1,0 +1,18 @@
+    1  whoami
+    2  hostname
+    3  df -h /
+    4  du -sh /
+    5  whoami
+    6  su -
+    7  sudo df -h /
+    8  sudo su -
+    9  git clone https://github.com/sagimadai/linux.git
+   10  sudo yum install git -y
+   11  git --version
+   12  git clone https://github.com/sagimadai/linux.git
+   13  pwd
+   14  ls
+   15  cd linux/
+   16  ll
+   17  ls -la
+   18  history > ~/linux/history.txt
